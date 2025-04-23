@@ -1,0 +1,10 @@
+{
+    "myImages.emptyTile": {
+        "id": "myImages.emptyTile",
+        "data": "hwQIAAgAAADd3d3dERER0REREdERERHRERER0REREdERERHRERER0Q==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "emptyTile0"
+    }
+}
