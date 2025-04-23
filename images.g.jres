@@ -1,0 +1,37 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAD/////HxER8R8REfEfERHxHxER8R8REfEfERHx/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tile_empty"
+    },
+    "image2": {
+        "data": "hwQIAAgAAAD/////z8zM/M+7u/zPvLv8z8y7/M/MvPzPzMz8/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tile_entrypoint"
+    },
+    "image3": {
+        "data": "hwQIAAgAAAD/////z8zM/M/MvPzPzLv8z7y7/M+7u/zPzMz8/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tile_exitpoint"
+    },
+    "image5": {
+        "data": "hwQIAAgAAAD/////z8zM/M/MzPzPzMz8z8zM/M/MzPzPzMz8/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tile_wall"
+    },
+    "image6": {
+        "data": "hwQIAAgAAAD/////v7u7+7+7u/u/u7v7v7u7+7+7u/u/u7v7/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tile__floor"
+    },
+    "image4": {
+        "data": "hwQIAAgAAAD/////f3d39393d/d/d3f3f3d39393d/d/d3f3/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tile_path"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
